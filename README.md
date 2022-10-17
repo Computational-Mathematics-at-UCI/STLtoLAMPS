@@ -36,7 +36,3 @@ cd STLtoLAMPS
 pip install --user -e .
 
 
-=======
-
-conda install -c conda-forge -c cadquery ocp
->>>>>>> e30cf11f0439b243cbc3196adad78b380b00fb78
