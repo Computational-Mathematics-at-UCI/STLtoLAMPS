@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: stltolammps
+Version: 0.0.1
+Summary: Tool to convert CAD designs into particle models of surfaces importable in LAMMPS
+Home-page: 
+Author: Edisel Navas Conyedo
+Author-email: enavas@uci.cu
+License: GPLv2
+License-File: LICENSE

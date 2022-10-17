@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+stltolammps/__init__.py
+stltolammps/getmeshstl.py
+stltolammps/loadstl.py
+stltolammps.egg-info/PKG-INFO
+stltolammps.egg-info/SOURCES.txt
+stltolammps.egg-info/dependency_links.txt
+stltolammps.egg-info/top_level.txt
